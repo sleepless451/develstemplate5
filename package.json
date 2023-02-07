@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "bootstrap-icons": "^1.10.3",
+    "gulp-cli": "^2.3.0"
+  },
+  "name": "lucid_onepage",
+  "version": "1.0.0",
+  "description": "starter project",
+  "main": "index.js",
+  "devDependencies": {
+    "browser-sync": "^2.27.5",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.58.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sleepless",
+  "license": "ISC"
+}
